@@ -1,0 +1,20 @@
+{
+  "Id": 1,
+  "Name": "John",
+  "Surname": "Doe",
+  "Age": 30,
+  "City": "New York",
+  "Phone": "123-456-7890",
+  "Cv": {
+    "Trade": "Software Engineer",
+    "School": "University of XYZ",
+    "Point": 4.5,
+    "Skills": "C#, Java, Python",
+    "Companies": "ABC Corp, XYZ Inc",
+    "WorkStartEndTime": "2018 - Present",
+    "Language": "English",
+    "Diploma": "Computer Science",
+    "GitLink": "https://github.com/johndoe",
+    "LinkedIN": "https://linkedin.com/in/johndoe"
+  }
+}

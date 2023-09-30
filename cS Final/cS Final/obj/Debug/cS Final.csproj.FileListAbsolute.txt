@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\cS Final\cS Final\bin\Debug\cS Final.exe.config
+C:\Users\Admin\source\repos\cS Final\cS Final\bin\Debug\cS Final.exe
+C:\Users\Admin\source\repos\cS Final\cS Final\bin\Debug\cS Final.pdb
+C:\Users\Admin\source\repos\cS Final\cS Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\cS Final\cS Final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\cS Final\cS Final\obj\Debug\cS Final.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\cS Final\cS Final\obj\Debug\cS Final.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\cS Final\cS Final\obj\Debug\cS Final.csproj.CopyComplete
+C:\Users\Admin\source\repos\cS Final\cS Final\obj\Debug\cS Final.exe
+C:\Users\Admin\source\repos\cS Final\cS Final\obj\Debug\cS Final.pdb
