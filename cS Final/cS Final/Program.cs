@@ -181,7 +181,7 @@ namespace Boss_Project_Az
             Console.Clear();
             if (string.IsNullOrEmpty(worker.WorkerSkill))
             {
-                Console.WriteLine("\t\t\t\t\tYou need to create a CV before applying to job postings.");
+                Console.WriteLine("\t\t\t\t\tBefore Create CV.");
                 Console.WriteLine("\t\t\t\t\tDo you want to create a CV now? (Y/N)");
                 string response = Console.ReadLine();
 
@@ -294,7 +294,7 @@ namespace Boss_Project_Az
 
 ");
                 Console.ResetColor();
-                Console.WriteLine("\t\t\t\t\t************* Welcome Worker *************\n");
+                Console.WriteLine("\t\t\t\t\t----------------- Welcome Worker -----------------\n");
                 Console.WriteLine($"\t\t\t\t\tWorker Logged In: {worker.WorkerName}");
                 Console.WriteLine("\t\t\t\t\t 1 - Create CV");
                 Console.WriteLine("\t\t\t\t\t 2 - List Applications");
@@ -390,7 +390,7 @@ namespace Boss_Project_Az
             }
             else
             {
-                Console.WriteLine("Login Failed. Invalid email or password.");
+                Console.WriteLine("Login Failed.");
             }
         }
 
@@ -461,6 +461,10 @@ namespace Boss_Project_Az
         }
     }
 
+
+    //==========================================================================================
+    //==========================================================================================
+    //==========================================================================================
     public class Worker
     {
         public int Id { get; set; }
