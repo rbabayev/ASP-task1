@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\bin\Debug\6 Buttons.exe.config
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\bin\Debug\6 Buttons.exe
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\bin\Debug\6 Buttons.pdb
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\6 Buttons.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\6 Buttons_MarkupCompile.cache
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\6 Buttons_MarkupCompile.lref
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\6 Buttons.g.resources
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\_6_Buttons.Properties.Resources.resources
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\6 Buttons.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\6 Buttons.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\6 Buttons.exe
+C:\Users\Admin\source\repos\6 Buttons\6 Buttons\obj\Debug\6 Buttons.pdb
