@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TxtBook\TxtBook\bin\Debug\net6.0-windows\TxtBook.exe
+C:\Users\Admin\source\repos\TxtBook\TxtBook\bin\Debug\net6.0-windows\TxtBook.deps.json
+C:\Users\Admin\source\repos\TxtBook\TxtBook\bin\Debug\net6.0-windows\TxtBook.runtimeconfig.json
+C:\Users\Admin\source\repos\TxtBook\TxtBook\bin\Debug\net6.0-windows\TxtBook.dll
+C:\Users\Admin\source\repos\TxtBook\TxtBook\bin\Debug\net6.0-windows\TxtBook.pdb
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.Form1.resources
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.dll
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\refint\TxtBook.dll
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.pdb
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\TxtBook.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TxtBook\TxtBook\obj\Debug\net6.0-windows\ref\TxtBook.dll
