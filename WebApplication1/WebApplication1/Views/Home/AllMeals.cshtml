@@ -1,0 +1,86 @@
+﻿@model WebApplication1.Models.MealListViewModel
+
+@{
+    ViewData["Title"] = "AllMeals";
+}
+
+<h1>AllMeals</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<h2>Drinks</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var drink in Model.Drinks)
+        {
+            <tr>
+                <td>@drink.Name</td>
+                <td>@drink.Price</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = drink.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = drink.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = drink.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2>Foods</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var food in Model.Foods)
+        {
+            <tr>
+                <td>@food.Name</td>
+                <td>@food.Price</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = food.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = food.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = food.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2>Fastfoods</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var fastfood in Model.Fastfoods)
+        {
+            <tr>
+                <td>@fastfood.Name</td>
+                <td>@fastfood.Price</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = fastfood.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = fastfood.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = fastfood.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
